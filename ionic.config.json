@@ -1,0 +1,8 @@
+{
+  "name": "tair-iframe",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "b66899c1"
+}
